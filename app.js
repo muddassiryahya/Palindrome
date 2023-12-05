@@ -1,5 +1,5 @@
 
-// First Method
+// // First Method
 
 // var userInput = prompt("Enter any word")
 // var data = ''
@@ -14,6 +14,24 @@
 //     console.log(userInput + " is not palindrom")
 // }
 
+// if(data == userInput){
+//     swal({
+//             title: userInput + " is palindrom" ,
+//             text: "You clicked the button!",
+//             icon: "success",
+//             button: "Aww yiss!",
+//           });
+//         }
+//         else{
+//             swal({
+//                 title: userInput + " is not palindrom" ,
+//                 text: "You clicked the button!",
+//                 icon: "success",
+//                 button: "Aww yiss!",
+//               });
+//             }
+
+    
 
 
 
@@ -31,3 +49,4 @@
 // else {
 //     console.log(userInput + " is not palindrom")
 // }
+
